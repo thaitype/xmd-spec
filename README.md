@@ -1,8 +1,9 @@
 # XMD Spec: Extended Markdown Format
 
-**Spec Version**: xmd-spec.thaitype.dev/v1
-**Status**: Draft (2025-05-04)
-**Primary Use Case**: Structured Documents with Block-level Metadata
+- **Spec Version**: xmd-spec.thaitype.dev/v1
+- **Status**: Draft (2025-05-04)
+- **Primary Use Case**: Structured Documents with Block-level Metadata
+
 
 ## Overview
 
